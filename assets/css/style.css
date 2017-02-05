@@ -1,0 +1,59 @@
+h1{
+	font-size: 90px;
+	font-family: 'Abril Fatface', cursive;
+	color: red;
+	text-align: center;
+	margin-top: 2px;
+
+}
+
+h2{
+	font-size: 60px;
+	font-family: 'Barrio', cursive;
+	color: red;
+	text-align: center;
+	font-weight: 900;
+	
+}
+
+.top{
+	background-color: yellow;
+	
+}
+
+.main{
+	float: right;
+	border: red 4px solid;
+	font-family: 'Barrio', cursive;
+	font-size: 25px;
+	text-align: center;
+	color: blue;
+	height: 450px;
+	width: 400px;
+	line-height: 45px;
+	background-color: white;
+	margin-right: 50px;
+}
+
+#tv{
+	font-family: 'Barrio', cursive;
+	font-size: 30px;
+	color: blue;
+	float: left;
+	border: 3px red solid;
+	height: 450px;
+	width: 600px;
+	text-align: center;
+	background-color: white;
+	margin-left: 50px;
+
+}
+
+img{
+	height: 400px;
+	width: 500px;
+}
+
+body{
+	background-image: url("../images/background.jpg");
+}
